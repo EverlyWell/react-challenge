@@ -23,6 +23,9 @@
   - Store this data in the users browser
 - If any favortied recipes are detected in the browser, add a button on the home page that shows a list of these recipes
 
+#### Bonus
+- Add a share button on the modal page to "Tweet" the recipe
+
 
 ### Submission
 
