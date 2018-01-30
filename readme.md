@@ -5,13 +5,16 @@
 
   - Try to limit usage of libraries for the core requirements listed below (Use fontawesome, http://fontawesome.io/icons/, for any icon needs)
   - Spend, at max, 4 hours on this project
-  - Mobile designs are provided, but feel free to get creative with responsive desktop designs
 
 ### Requirements
 
 - Integrate with "TheMealDB" API http://www.themealdb.com/api.php
 - The main page will display 5 random recipes as 'Recipes of the Day'
+- Mobile designs are provided, get creative with responsive desktop designs
+- Use a css preprocessor
 - Clicking on a recipe should open a modal with details about the recipe
+  - The URL should change (consider using react-router) when a recipe is clicked
+  - If a user copy pastes the URL into a new window, the same recipe modal should display
   - Modal should show the ingredients and instructions for that recipe
   - A back button (for mobile) on the modal should close it
 - There should be a search bar allowing users to search for a recipe
