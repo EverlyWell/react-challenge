@@ -5,7 +5,7 @@
 
   - Try to limit usage of libraries for the core requirements listed below (Use fontawesome, http://fontawesome.io/icons/, for any icon needs)
   - Spend, at max, 4 hours on this project
-  - Prefer to see demonstration of effective use of state management and React/Javascript best practices over styling if you are running out of time
+  - Prefer to see effective use of state management and React/Javascript best practices over styling if you are running out of time
 
 ### Requirements
 
