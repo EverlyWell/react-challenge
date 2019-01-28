@@ -25,7 +25,7 @@
 - Add a 'Heart' icon in the modal for a recipe
   - The heart icon should 'favorite' this recipe
   - Store this data in the users browser
-- If any favortied recipes are detected in the browser, add a button on the home page that shows a list of these recipes
+- If any favorited recipes are detected in the browser, add a button on the home page that shows a list of these recipes
 
 #### Bonus
 - Add a share button on the modal page to "Tweet" the recipe
