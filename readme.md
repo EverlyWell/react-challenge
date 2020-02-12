@@ -33,4 +33,4 @@
 
 ### Submission
 
-Once you've completed your project, deploy the code (to a free account on Heroku), and submit links to the hosted instance and your github repo
+Once you've completed your project, deploy the code (to a free account on Heroku), and submit links to the hosted instance and your github repo.
