@@ -6,7 +6,7 @@ Create an app using React and [React Hooks](https://reactjs.org/docs/hooks-intro
 
 - Use [fontawesome](http://fontawesome.io/icons/) for any icon needs and [axios](https://github.com/axios/axios) for any http requests.
 - Spend, at max, 4 hours on this project
-- Prefer to see effective use of state management, thoughtfulness in component building and focus on performance/best practices over styling if you are running out of time
+- Prefer to see effective use of state management, thoughtfulness in component building and focus on performance, responsiveness and accessibility best practices over styling if you are running out of time
 
 ### Requirements
 
@@ -21,15 +21,17 @@ Create an app using React and [React Hooks](https://reactjs.org/docs/hooks-intro
 - There should be a search bar allowing users to search for a recipe
   - Search button on mobile in the bottom right corner of the screen - which should open a search window with the keyboard
 - The search results will be displayed where the random recipes were displayed
+
+#### Bonus (optional)
+
+We would prefer you spent as much time focusing on performance and accessibility as possible, but if you finish early here are some options for "bonus points".
+
+- Add a share button on the modal page to "Tweet" the recipe
 - The results should be paginated with 5 results displaying at a time
 - Add a 'Heart' icon in the modal for a recipe
   - The heart icon should 'favorite' this recipe
   - Store this data in the users browser
 - If any favorited recipes are detected in the browser, add a button on the home page that shows a list of these recipes
-
-#### Bonus
-
-- Add a share button on the modal page to "Tweet" the recipe
 
 ### Submission
 
